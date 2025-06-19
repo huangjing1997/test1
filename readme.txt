@@ -7,3 +7,5 @@ Git is free software.
 Git good
 
 Git good good
+
+Creating a new branch is quick.
